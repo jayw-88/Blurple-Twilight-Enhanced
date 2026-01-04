@@ -1,12 +1,12 @@
 :root {
   /* APP ELEMENTS */
-  --app-bg: url(https://i.ibb.co/5h7854Wy/bgmVeyt.jpg);
-  --app-blur: 6px;
-  --app-margin: 24px;
-  --app-radius: 10px;
+  --app-bg: url(https://i.ibb.co/FLyL2WDt/q7x3qq-Hqps-Bu9-Jta-Ti-Sqrh.jpg);
+  --app-blur: 0px;
+  --app-margin: 12px;
+  --app-radius: 8px;
   --main-rgb: 0,0,0;
   --main-content-opacity: 0.2;
-  --sidebar-opacity: 0.4;
+  --sidebar-opacity: 0.2;
   --main-content-color: rgba(var(--main-rgb), var(--main-content-opacity));
   --sidebar-color: rgba(var(--main-rgb), var(--sidebar-opacity));
   /* ACCENT HSL AND TEXT COLOR SETTINGS */
