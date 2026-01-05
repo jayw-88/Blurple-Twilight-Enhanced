@@ -10,7 +10,7 @@
   --main-content-color: rgba(var(--main-rgb), var(--main-content-opacity));
   --sidebar-color: rgba(var(--main-rgb), var(--sidebar-opacity));
   /* ACCENT HSL AND TEXT COLOR SETTINGS */
-  --accent-hue: 220;
+  --accent-hue: 230;
   --accent-saturation: 80%;
   --accent-lightness: 50%;
   --accent-opacity: 1;
@@ -33,7 +33,7 @@
   --mention-hsl: var(--mention-hue),calc(var(--mention-saturation) * var(--saturation-factor)),var(--mention-lightness);
   --mention-opacity: 1;
   /* REPLY HSL COLOR SETTINGS */
-  --reply-hue: 220;
+  --reply-hue: 230;
   --reply-saturation: 80%;
   --reply-lightness: 50%;
   --reply-hsl: var(--reply-hue),calc(var(--reply-saturation) * var(--saturation-factor)),var(--reply-lightness);
